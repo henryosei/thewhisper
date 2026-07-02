@@ -42,7 +42,7 @@ apple = [
   "torchaudio==2.6.0",
   "transformers==4.52.3",
   "editdistance",
-  "mlx==0.25.2",
+  "mlx==0.29.4",
   "coremltools==8.3.0",
   "mlx_whisper==0.4.2",
 ]
