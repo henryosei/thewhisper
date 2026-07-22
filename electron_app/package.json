@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "electron": "^35.1.5",
-    "electron-builder": "^26.0.12"
+    "electron-builder": "^26.15.3"
   },
   "author": "TheStage AI INC.",
   "license": "MIT",
