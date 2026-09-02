@@ -30,7 +30,7 @@ dependencies = [
 [project.optional-dependencies]
 nvidia = [
   "torch==2.9.0",
-  "transformers==4.52.3",
+  "transformers==5.10.1",
   "torchaudio==2.9.0",
   "tensorrt==10.13.0.35",
   "tensorrt-cu12==10.13.0.35",
@@ -40,7 +40,7 @@ nvidia = [
 apple = [
   "torch==2.6.0",
   "torchaudio==2.6.0",
-  "transformers==4.52.3",
+  "transformers==5.10.1",
   "editdistance",
   "mlx==0.25.2",
   "coremltools==8.3.0",
